@@ -1,4 +1,4 @@
-# Lending Club case study
+# Bike rental CaseStudy
 
 
 
